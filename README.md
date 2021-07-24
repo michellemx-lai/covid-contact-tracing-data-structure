@@ -1,8 +1,8 @@
 # CovidData
 
-Built with Python, this data structure is used to acess, analyze, and manipulate a set of fictitious data.
+Built with Python, this data structure is used to acess, analyze, and manipulate a set of fictitious COVID-19 contract tracing data.
 
-I was provided a (fictitious) dataset of information collected by a COVID-19 contact tracer, and developed data structures that allow quick access to and manipulation of that data. 
+I was provided a (fictitious) dataset of information collected by a COVID-19 contact tracer, and I developed data structures that allow quick access to and manipulation of that data. 
 
 Completed in the middle of the COVID-19 pandemic, this project gave me a sense of the power of coding to gather and display data, and help in understanding important worldwide events. 
 
@@ -25,6 +25,4 @@ Part 4 – Find Superspreading Dates
     We define a superspreading date as the date in which the most persons were infected. Ties are possible and so there may be multiple direct superspreading dates. In this part, the superspreading dates are identified and extracted. 
 
 Part 5 – Identify the Top (Direct + Indirect) Superspreaders
-    In Part 3 I looked at direct infections: when one person infects one or more others. Indirect infections are the ones that follow from a direct infection. For example, if person A infects person B and person B infects persons C and D, A is said to have indirectly infected C and D. If C and D do not infect anyone else, A is said to have (directly + indirectly) infected three persons: B, C, and D.
-    
-    In this part, I designed and implemented two functions to identify all people directly or indirectly infected by a person, and to identify the top (direct + indirect) superspreader(s).
+    In Part 3 I looked at direct infections: when one person infects one or more others. Indirect infections are the ones that follow from a direct infection. For example, if person A infects person B and person B infects persons C and D, A is said to have indirectly infected C and D. If C and D do not infect anyone else, A is said to have (directly + indirectly) infected three persons: B, C, and D. In this part, I designed and implemented two functions to identify all people directly or indirectly infected by a person, and to identify the top (direct + indirect) superspreader(s).
