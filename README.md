@@ -26,4 +26,5 @@ Part 4 – Find Superspreading Dates
 
 Part 5 – Identify the Top (Direct + Indirect) Superspreaders
     In Part 3 I looked at direct infections: when one person infects one or more others. Indirect infections are the ones that follow from a direct infection. For example, if person A infects person B and person B infects persons C and D, A is said to have indirectly infected C and D. If C and D do not infect anyone else, A is said to have (directly + indirectly) infected three persons: B, C, and D.
+    
     In this part, I designed and implemented two functions to identify all people directly or indirectly infected by a person, and to identify the top (direct + indirect) superspreader(s).
