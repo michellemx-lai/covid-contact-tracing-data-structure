@@ -4,7 +4,7 @@ Built with Python, this data structure is used to acess, analyze, and manipulate
 
 I was provided a (fictitious) dataset of information collected by a COVID-19 contact tracer, and I developed data structures that allow quick access to and manipulation of that data. 
 
-Completed in the middle of the COVID-19 pandemic, this project gave me a sense of the power of coding to gather and display data, and help in understanding important worldwide events. 
+Completed in the middle of the COVID-19 pandemic, this project gave me a sense of the power of object-oriented programming to gather and display data, and helped me in understanding important worldwide events. 
 
 # The Code
 
@@ -26,3 +26,53 @@ Part 4 – Find Superspreading Dates
 
 Part 5 – Identify the Top (Direct + Indirect) Superspreaders
     In Part 3 I looked at direct infections: when one person infects one or more others. Indirect infections are the ones that follow from a direct infection. For example, if person A infects person B and person B infects persons C and D, A is said to have indirectly infected C and D. If C and D do not infect anyone else, A is said to have (directly + indirectly) infected three persons: B, C, and D. In this part, I designed and implemented two functions to identify all people directly or indirectly infected by a person, and to identify the top (direct + indirect) superspreader(s).
+
+#What I Learned
+After completing this project, I learned the following:
+
+General knowledge:
+• Understand, explain, and use the basic programming concepts (variable creation and instantiation, loops, selection statements, functions)
+
+• Understand, explain, and use the basic data types in Python (ints, floats, strings, Booleans, lists, dictionaries, sets, tuples)
+
+• Understand and explain basic object-oriented design concepts (objects, classes, methods, inheritance, polymorphism)•Design, implement, and debug object-oriented programs•Use, reuse, and modify existing code
+
+• Design, implement, and debug solutions to engineering problems in Python: (1) design a computational solution to a problem described in natural language, (2) express the solution in an algorithmic way, (3) convert the algorithm plan effectively into a Python program
+
+• Learn how to use the Python interpreter for simple math calculations
+
+Variables, values, expressions and simple statements:
+• Understand fundamentals of programming such as variables, values, statements, conditional anditerative execution
+
+• Declare, instantiate variables(assignment statements) and distinguish between various types of statements
+
+• Call/invoke None-returning functions
+
+• Knowledge of basic data types and associated methods/operations, e.g., as split()),slicing [:], join(), and list().
+
+• Instantiate basic built-in data types/classes
+
+Control structures:
+• Develop a basic understanding ofcontrol structures, i.e., if statements, for and while loops, etc.
+• Practice using control flow statements (if statements, for and while loops).FunctionsLearn the concept of function
+• Use/call/invoke built-in functions
+• Call functions from external libraries via importing modules
+• Define a functionLearn the notion of helper function
+• Write docstrings, including doctests
+• Practice completing short functions where the docstring and doctests are provided.Practice translating mathematical functions into Python ones
+• Practice designing complex functions based on a given descriptionLearn to find (and fix) bugs in provided functions
+
+Recursion:
+• Learn the concept of recursion
+• Practice writing recursive functions
+
+Files:
+• Concept of file
+• Open, close, read and write files
+
+Fundamentals of Object-Oriented Programming:
+• Concept of data abstraction and encapsulation
+• Define classes, including data and method attributesLearn how to implement constructors and class methods
+• Basics of inheritance and polymorphism mechanisms
+• Practice using class libraries
+• Basics of linked data structures(i.e., classes that have at least a field of their own type)Learn how to use exception handling 
