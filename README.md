@@ -1,8 +1,6 @@
 <h1>CovidData</h1>
 
-Built with Python, this data structure is used to acess, analyze, and manipulate a set of fictitious COVID-19 contract tracing data.
-
-I was provided a (fictitious) dataset of information collected by a COVID-19 contact tracer, and I developed data structures that allow quick access to and manipulation of that data. 
+Built with Python, this data structure is used to access, analyze, and manipulate a set of fictitious COVID-19 contract tracing data.
 
 Completed in the middle of the COVID-19 pandemic, this project gave me a sense of the power of object-oriented programming to gather and display data, and helped me in understanding important worldwide events. 
 
