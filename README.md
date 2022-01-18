@@ -29,35 +29,39 @@ In Part 3 I looked at direct infections: when one person infects one or more oth
 After completing this project, I learned the following:
 
 <h2>General knowledge</h2>
-• Understand, explain, and use the basic programming concepts (variable creation and instantiation, loops, selection statements, functions)
+- Basic programming concepts (variable creation and instantiation, loops, selection statements, functions)
 
-• Understand, explain, and use the basic data types in Python (ints, floats, strings, Booleans, lists, dictionaries, sets, tuples)
+- Data types in Python (ints, floats, strings, Booleans, lists, dictionaries, sets, tuples)
 
-• Understand and explain basic object-oriented design concepts (objects, classes, methods, inheritance, polymorphism)•Design, implement, and debug object-oriented programs•Use, reuse, and modify existing code
+- Object-oriented design concepts (objects, classes, methods, inheritance, polymorphism)
+- Design, implement, and debug object-oriented programs•Use, reuse, and modify existing code
 
-• Design, implement, and debug solutions to engineering problems in Python: (1) design a computational solution to a problem described in natural language, (2) express the solution in an algorithmic way, (3) convert the algorithm plan effectively into a Python program
+- Design, implementation, and debugging involving engineering problems in Python: 
+    - (1) design a computational solution to a problem described in natural language
+    - (2) express the solution in an algorithmic way
+    - (3) convert the algorithm plan effectively into a Python program
 
-• Learn how to use the Python interpreter for simple math calculations
+- Learn how to use the Python interpreter for math calculations
 
 <h2>Variables, values, expressions and simple statements</h2>
-• Understand fundamentals of programming such as variables, values, statements, conditional anditerative execution
+- Understand fundamentals of programming such as variables, values, statements, conditional anditerative execution
 
-• Declare, instantiate variables(assignment statements) and distinguish between various types of statements
+- Declare, instantiate variables(assignment statements) and distinguish between various types of statements
 
-• Call/invoke None-returning functions
+- Call/invoke None-returning functions
 
-• Knowledge of basic data types and associated methods/operations, e.g., as split()),slicing [:], join(), and list().
+- Knowledge of basic data types and associated methods/operations, e.g., as split()),slicing [:], join(), and list().
 
-• Instantiate basic built-in data types/classes
+- Instantiate basic built-in data types/classes
 
 <h2>Control structures</h2>
 • Develop a basic understanding ofcontrol structures, i.e., if statements, for and while loops, etc.
-• Practice using control flow statements (if statements, for and while loops).FunctionsLearn the concept of function
+• Practice using control flow statements (if statements, for and while loops)
 • Use/call/invoke built-in functions
 • Call functions from external libraries via importing modules
 • Define a functionLearn the notion of helper function
 • Write docstrings, including doctests
-• Practice completing short functions where the docstring and doctests are provided.Practice translating mathematical functions into Python ones
+• Accurately translating mathematical functions into Python ones
 • Practice designing complex functions based on a given descriptionLearn to find (and fix) bugs in provided functions
 
 <h2>Recursion</h2>
@@ -65,12 +69,4 @@ After completing this project, I learned the following:
 • Practice writing recursive functions
 
 <h2>Files</h2>
-• Concept of file
 • Open, close, read and write files
-
-<h2>Fundamentals of Object-Oriented Programming</h2>
-• Concept of data abstraction and encapsulation
-• Define classes, including data and method attributesLearn how to implement constructors and class methods
-• Basics of inheritance and polymorphism mechanisms
-• Practice using class libraries
-• Basics of linked data structures(i.e., classes that have at least a field of their own type)Learn how to use exception handling 
