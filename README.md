@@ -11,7 +11,7 @@ This project is separated into five parts:
 <h2>Part 1 – Represent the Contact Tracing Data</h2>
 I designed and implemented a data structure that will be used to represent information about an infected person, and others infected by contact with that person.
 
-<h2>Part 2 – Parse the Contract Tracing Data</h2>
+<h2>Part 2 – Parse the Contact Tracing Data</h2>
 I designed and implemented a function to process the content of a file containing data on persons and infections. The data file is in csv format and has the following structure:
 
     id,infected-by,date a3959d249c3444dbb36310bb16e2a689,d03ba6ffa3b5475989ce477973d1617d,2021-02-09 ae66eefa796a4a59aa375d0514620fcf,209864c2f0f543089f8466e7bcff3acd,2021-01-27 435e781627db4635b966c3d4fd493728,d161fa8d17f244d186ef9a47b40e931c,2021-03-21 0583968bf83442858853ef7c2d0f75cb,c921ae9021ab440aa440601e20fdb45f,2021-01-16
