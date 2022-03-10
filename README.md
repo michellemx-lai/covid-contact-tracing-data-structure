@@ -34,7 +34,7 @@ After completing this project, I learned the following:
 - Data types in Python (ints, floats, strings, Booleans, lists, dictionaries, sets, tuples)
 
 - Object-oriented design concepts (objects, classes, methods, inheritance, polymorphism)
-- Design, implement, and debug object-oriented programs•Use, reuse, and modify existing code
+- Design, implement, and debug object-oriented programs
 
 - Design, implementation, and debugging involving engineering problems in Python: 
     - (1) design a computational solution to a problem described in natural language
